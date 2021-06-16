@@ -1,0 +1,22 @@
+{
+  "name": "ApiRestAerolinea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "node-scrapy": "^0.5.0",
+    "pg": "^8.5.1",
+    "scrappy": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
